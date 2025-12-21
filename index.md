@@ -6,7 +6,7 @@ title: Ram Ravi
 <img src="/assets/git-profile-pic.JPG" alt="Profile photo" width="180" style="border-radius: 50%;" />
 
 ## About Me
-I’m a recent M.S. in Data Science graduate from Drexel University, with a focus on computational AI and machine learning. Before moving to the U.S. in 2023 for my master’s, I spent about 14 years in Hong Kong—completing my undergraduate degree at the Hong Kong University of Science and Technology and then working in technology roles within finance. This included time at Morgan Stanley and later at a smaller high-frequency quantitative trading firm, Athena Capital Research.
+I’m a recent M.S. in Data Science graduate from Drexel University, with a focus on computational AI and machine learning. Before moving to the U.S. in 2023 for my master’s, I spent about 14 years in Hong Kong - completing my undergraduate degree at the Hong Kong University of Science and Technology and then working in technology roles within finance. This included time at Morgan Stanley and later at a smaller high-frequency quantitative trading firm, Athena Capital Research.
 
 I’m currently collaborating with Prof. Shahin Jabbari (UPenn PhD, Harvard postdoc) on research around model extraction via counterfactual analysis, using the Robust Algorithmic Recourse (ROAR) framework and Dual Counterfactual methods. The work focuses on understanding and replicating model decision boundaries, with direct relevance to building reliable and fair AI systems.
 
