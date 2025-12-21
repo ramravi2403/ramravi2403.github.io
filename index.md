@@ -16,5 +16,5 @@ My interests span machine learning, deep learning, and reinforcement learning. I
 
 ## Links
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=-08NfRgAAAAJ&hl=en)
-- 💻 [GitHub]([https://github.com/yourusername](https://github.com/ramravi2403))
+- 💻 [GitHub](https://github.com/ramravi2403)
 - ✉️ Email: raviramgopal@gmail.com
