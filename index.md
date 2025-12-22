@@ -5,6 +5,12 @@ title: Ram Ravi
 
 <img src="/assets/git-profile-pic.JPG" alt="Profile photo" width="180" style="border-radius: 50%;" />
 
+<p align="center">
+  <a href="https://github.com/ramravi2403">GitHub</a> ·
+  <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a> ·
+  <a href="mailto:raviramgopal@gmail.com">Email</a>
+</p>
+
 ## About Me
 I’m a recent M.S. in Data Science graduate from Drexel University, with a focus on computational AI and machine learning. Before moving to the U.S. in 2023 for my master’s, I spent about 14 years in Hong Kong - completing my undergraduate degree at the Hong Kong University of Science and Technology and then working in technology roles within finance. This included time at Morgan Stanley and later at a smaller high-frequency quantitative trading firm, Athena Capital Research.
 
