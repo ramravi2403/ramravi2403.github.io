@@ -20,7 +20,3 @@ On the applied side, I’ve built end-to-end ML systems including LLM-based RAG 
 
 My interests span machine learning, deep learning, and reinforcement learning. I’m currently based in the Bay Area, focusing on research while exploring industry opportunities as a research engineer or machine learning engineer. Outside of work, I enjoy a good trivia night, hiking, and—when I’m in Southeast Asia - scuba diving (PADI Advanced Open Water certified).
 
-## Links
-- 📄 [Google Scholar](https://scholar.google.com/citations?user=-08NfRgAAAAJ&hl=en)
-- 💻 [GitHub](https://github.com/ramravi2403)
-- ✉️ Email: raviramgopal@gmail.com
