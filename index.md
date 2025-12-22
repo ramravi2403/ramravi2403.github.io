@@ -18,5 +18,5 @@ I’m currently collaborating with Prof. Shahin Jabbari (UPenn PhD, Harvard post
 
 On the applied side, I’ve built end-to-end ML systems including LLM-based RAG workflows for resume analysis and a computer-vision + NLP pipeline using YOLOv8 and Google Gemini for semantic search. I’ve also published two papers at IEEE DSAA 2022 on real estate price prediction using multimodal datasets.
 
-My interests span machine learning, deep learning, and reinforcement learning. I’m currently based in the Bay Area, focusing on research while exploring industry opportunities as a research engineer or machine learning engineer. Outside of work, I enjoy a good trivia night, hiking, and—when I’m in Southeast Asia - scuba diving (PADI Advanced Open Water certified).
+My interests span machine learning, deep learning, and reinforcement learning. I’m currently based in the Bay Area, focusing on research while exploring industry opportunities as a research engineer or machine learning engineer. Outside of work, I enjoy a good trivia night, hiking, and scuba diving (PADI Advanced Open Water).
 
