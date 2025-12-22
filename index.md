@@ -8,7 +8,8 @@ title: Ram Ravi
 <p align="center">
   <a href="https://github.com/ramravi2403">GitHub</a> ·
   <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a> ·
-  <a href="mailto:raviramgopal@gmail.com">Email</a>
+  <a href="mailto:raviramgopal@gmail.com">Email</a> ·
+  <a href="/assets/Ram%20Ravi%20-%20Resume%20(AIML).pdf">Resume</a>
 </p>
 
 ## About Me
